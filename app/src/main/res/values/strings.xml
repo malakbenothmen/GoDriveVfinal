@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GoDriveTN</string>
+    <string name="month_prompt">Month</string>
+    <string name="year_prompt">Year</string>
+    <string name="image_content_desc">Image description goes here</string>
+
+    <string name="favorite_button_description">Ajouter aux favoris</string>
+
+
+</resources>
